@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "body": "Excellent job!",
+            "author": "Nadeem",
+            "id": "0.18232715086423568"
+        },
+        {
+            "body": "Great job!",
+            "author": "Miller",
+            "id": "0.18850472096508453"
+        },
+        { "body": "Lovely!", "author": "John", "id": "0.0017547270504409962" },
+        { "body": "Awesome!", "author": "Max", "id": "0.02302207012666191" }
+    ]
+}
